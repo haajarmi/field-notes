@@ -23,3 +23,4 @@ The goal is not to demonstrate expertise.
 
 The goal is to leave traces of learning, and also familiarize myself with the tools I hope to use one day.
 
+*If you're a researcher or mentor who stumbled here, thanks for looking. I'm actively learning and open to small contributions or feedback.*
