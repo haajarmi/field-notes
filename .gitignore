@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Data files (large / reproducible)
+data/
+datasets/
+raw_data/
+
+# EEG outputs
+exports/
+results/
+
+# Temporary files
+temp/
+tmp/
+
+# Environment variables
+.env
